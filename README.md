@@ -13,7 +13,7 @@ Coursera.org Data Science Specialization
 * **README.md**
 		this file
 
-###run_analysis.R script execution
+#####run_analysis.R script execution
 #####NEEDS:
 The training and test data sets and some descripting files extracted from 
 
