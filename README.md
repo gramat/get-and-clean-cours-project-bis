@@ -13,7 +13,7 @@ Coursera.org Data Science Specialization
 * **README.md**
 		this file
 
-#####run_analysis.R script execution
+####run_analysis.R script execution
 #####NEEDS:
 The training and test data sets and some descripting files extracted from 
 
@@ -31,9 +31,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * features.txt
 
 These files must be situated in work directory 
-
 or in  UCI HAR Dataset directory 
-
 or in the original subdirectories of UCI HAR Dataset
 
 
