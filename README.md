@@ -31,7 +31,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * features.txt
 
 These files must be situated in work directory 
+
 or in  UCI HAR Dataset directory 
+
 or in the original subdirectories of UCI HAR Dataset
 
 
