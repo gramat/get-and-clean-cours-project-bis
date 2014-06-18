@@ -13,7 +13,7 @@ Coursera.org Data Science Specialization
 * **README.md**
 		this file
 
-#####run_analysis.R
+###run_analysis.R script execution
 #####NEEDS:
 The training and test data sets and some descripting files extracted from 
 
@@ -35,7 +35,7 @@ or in  UCI HAR Dataset directory
 or in the original subdirectories of UCI HAR Dataset
 
 
-######DOES:
+#####DOES:
 
 * Merges the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -43,7 +43,7 @@ or in the original subdirectories of UCI HAR Dataset
 * Appropriately labels the data set with descriptive activity names. 
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-##########Step by step:
+#####Step by step:
 **Script** 
 * checks if a original data files is in UCI HAR Dataset folder 
 * or in one's subfolder
