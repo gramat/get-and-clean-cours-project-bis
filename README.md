@@ -13,8 +13,8 @@ Coursera.org Data Science Specialization
 * **README.md**
 		this file
 
-######run_analysis.R
-######NEEDS:
+#####run_analysis.R
+#####NEEDS:
 The training and test data sets and some descripting files extracted from 
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
