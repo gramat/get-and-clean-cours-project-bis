@@ -30,8 +30,10 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * activity_labels.txt
 * features.txt
 
-These files must be situated in work directory 
-or in  UCI HAR Dataset directory 
+These files must be situated in work directory
+
+or in  UCI HAR Dataset directory
+
 or in the original subdirectories of UCI HAR Dataset
 
 
@@ -44,7 +46,6 @@ or in the original subdirectories of UCI HAR Dataset
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 #####Step by step:
-**Script** 
 * checks if a original data files is in UCI HAR Dataset folder 
 * or in one's subfolder
 * or just in work directory
